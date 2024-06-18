@@ -19,7 +19,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -43,7 +43,7 @@
        id="swatch8"
        inkscape:swatch="solid">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#333333;stop-opacity:1;"
          offset="0"
          id="stop8" />
     </linearGradient>
@@ -62,13 +62,6 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#333333;fill-opacity:1;stroke-width:1.17072"
-       id="rect1"
-       width="1000"
-       height="1000"
-       x="8.8972308e-07"
-       y="1.6480496e-06" />
     <text
        xml:space="preserve"
        style="font-size:400px;letter-spacing:50px;fill:url(#linearGradient10)"
@@ -79,7 +72,7 @@
          id="tspan1"
          x="525.84204"
          y="675.89679"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;font-family:Kelson;-inkscape-font-specification:Kelson;text-align:center;letter-spacing:50px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;font-family:Kelson;-inkscape-font-specification:Kelson;text-align:center;letter-spacing:50px;text-anchor:middle;fill:#333333;fill-opacity:1"
          dx="0">&lt;PM&gt;</tspan></text>
   </g>
 </svg>
